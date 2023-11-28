@@ -1,0 +1,1 @@
+SELECT * from neo_bank.users
